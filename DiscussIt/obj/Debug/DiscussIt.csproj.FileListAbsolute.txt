@@ -149,6 +149,6 @@ Q:\Projects\Sample\DiscussIt\bin\System.Threading.Tasks.Extensions.xml
 Q:\Projects\Sample\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 Q:\Projects\Sample\DiscussIt\obj\Debug\DiscussIt.csproj.AssemblyReference.cache
 Q:\Projects\Sample\DiscussIt\obj\Debug\DiscussIt.csproj.CoreCompileInputs.cache
-Q:\Projects\Sample\DiscussIt\obj\Debug\DiscussIt.csproj.Up2Date
 Q:\Projects\Sample\DiscussIt\obj\Debug\Discussion_Forum.dll
 Q:\Projects\Sample\DiscussIt\obj\Debug\Discussion_Forum.pdb
+Q:\Projects\Sample\DiscussIt\obj\Debug\DiscussIt.csproj.CopyComplete
