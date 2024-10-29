@@ -11,7 +11,7 @@
         </div>
         <div class="mb-3">
             <asp:Label runat="server" Text="Label" class="form-label white-text">Password</asp:Label>
-            <asp:TextBox runat="server" class="form-control" TextMode="Password" ID="tbPassword"></asp:TextBox>
+            <asp:TextBox runat="server" class="form-control" TextMode="SingleLine" ID="tbPassword"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ErrorMessage="Password is required." ControlToValidate="tbPassword" ForeColor="Red"></asp:RequiredFieldValidator>
             <asp:RegularExpressionValidator runat="server" ErrorMessage="Password minimum length is 6." ControlToValidate="tbPassword" ValidationExpression="^[a-zA-Z0-9'@&#.\s]{6,}$" ForeColor="Red" Font-Size="12"></asp:RegularExpressionValidator>
         </div>
